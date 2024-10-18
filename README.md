@@ -2,7 +2,19 @@
 
 In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them to create a model and have deployed the model.
 
+## Project Structure
+1. Problem Statement: Understanding the challenges in the telecom industry and the significance of predicting customer churn.
 
+2. Data Preparation Steps: Deriving new features, filtering high-value customers, tagging churners, and removing attributes of the churn phase.
+
+3. Modelling Approach: Preprocessing data, handling missing values, and conducting exploratory analysis. Deriving new features for improved model performance. Reducing variables using PCA and handling class imbalance. Training a variety of models (Logistic Regression, Decision Trees, and Random Forests) and evaluating them based on appropriate metrics. Building a secondary model to identify important predictor attributes.
+
+4. Conclusion and Recommendations: Summarizing the findings from the models and recommending strategies to manage customer churn based on observations.
+
+## Contributions and Acknowledgments
+Contributions to the project are welcome through pull requests. Feel free to share insights, suggestions, or improvements.
+
+Acknowledgments to the telecom industry for providing valuable datasets and insights, enabling us to enhance customer retention strategies.
 ### 1 For EDA, please refer to : Churn Analysis - EDA.ipynb
 ### 2 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
 ### 3 For Model Deployment, please refer to app.py
