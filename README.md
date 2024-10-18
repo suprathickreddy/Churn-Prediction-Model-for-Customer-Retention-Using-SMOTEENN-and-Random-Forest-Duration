@@ -1,6 +1,6 @@
 # Churn-Prediction-Model-for-Customer-Retention-Using-SMOTEENN-and-Random-Forest-Duration
 
-In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
+In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them to create a model and have deployed the model.
 
 
 ### 1 For EDA, please refer to : Churn Analysis - EDA.ipynb
